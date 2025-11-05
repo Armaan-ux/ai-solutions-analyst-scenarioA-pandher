@@ -1,0 +1,9 @@
+source,language,subject,body,expected_category,employee_id,client_name,date,action_required
+email,EN,"Sick call","Employee out sick today","sick_call","EMP-1032","Sunrise Towers","2025-11-02","Notify manager for coverage"
+web_form,ES,"Solicitud de actualización","Actualizar ticket de mantenimiento","ticket_update","EMP-1041","Coral Plaza","2025-11-03","Update ServiceNow ticket"
+phone_log,EN,"Vendor issue","Supply delivery delayed due to traffic","vendor_issue","EMP-1008","Biscayne Complex","2025-11-02","Notify procurement to follow up"
+email,ES,"Limpieza urgente","Solicitud para limpiar derrame en la cocina","internal_request","EMP-1095","Oceanview Center","2025-11-04","Dispatch cleaning crew"
+email,EN,"Sick call for Juan Perez","Juan is sick today and cannot work",sick_call,EMP-1045,"Downtown Site",2025-11-05,"Notify field manager for coverage"
+form,ES,"Actualización de ticket","Por favor actualizar el ticket de mantenimiento #1041",ticket_update,EMP-1041,"Coral Plaza",2025-11-03,"Update ServiceNow ticket"
+phone,EN,"Client follow-up","Requesting status update on overdue client ticket",client_followup,EMP-1001,"Biscayne Complex",2025-11-02,"Follow up with client via email"
+email,ES,"Problema con proveedor","Factura atrasada del vendor; por favor revisar",vendor_issue,EMP-1022,"Sunrise Towers",2025-11-04,"Notify procurement to follow up"
