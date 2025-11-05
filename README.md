@@ -1,5 +1,5 @@
 # AI Solutions Analyst – Scenario A
-**Harvard Call Center Operations: AI-Assisted Bilingual Request Triage**
+**AI-Assisted Bilingual Request Triage**
 
 ### Executive Summary
 This solution designs an **AI-assisted, bilingual triage and routing system** for Harvard’s field operations and janitorial teams.  
