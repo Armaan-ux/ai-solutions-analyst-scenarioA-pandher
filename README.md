@@ -93,10 +93,6 @@ Inconsistent inputs across channels lead to:
 ### **1.7 Problem Statement**
 Design an **AI-augmented, bilingual triage and routing workflow** that automatically converts inbound requests from multiple channels into structured, auditable records, routes each to the correct destination, and notifies the appropriate field manager—while ensuring accuracy, human validation where needed, and measurable SLA improvement.
 
----
-
-### **1.8 Section Summary**
-This section establishes clear operational assumptions, quantifiable KPIs, and realistic constraints, forming the foundation for a scalable, risk-aware AI-assisted solution that enhances both efficiency and accountability across Harvard’s field operations.
 
 </details>
 
@@ -347,12 +343,6 @@ Rollback is instantaneous through a manual input form that feeds the ledger dire
 
 ---
 
-### **3.7 Section Summary**
-This implementation plan proves that the AI-assisted, bilingual triage system for Harvard’s Call Center Operations is **feasible, testable, secure, and deployment-ready**.  
-It balances automation with human oversight, delivers clear testing benchmarks, and includes rollback and audit controls that ensure continuity and trust in production.
-
----
-> The following section outlines how labeled data, metrics, and feedback ensure measurable improvement in accuracy and SLA performance.
 
 </details>
 
@@ -433,11 +423,7 @@ The solution will be considered successful when it meets or exceeds the followin
 
 This ensures the system evolves with real operational data while maintaining accuracy, fairness, and transparency.
 
----
 
-### **4.7 Section Summary**
-The data strategy provides a full lifecycle for **data quality, evaluation, and feedback**.  
-It combines quantitative offline metrics with real-time monitoring and HIL feedback, ensuring the bilingual triage system remains accurate, accountable, and continuously improving within Harvard’s call-center operations.
 
 </details>
 
