@@ -460,7 +460,6 @@ It combines quantitative offline metrics with real-time monitoring and HIL feedb
 - Rollback plan: disable auto-actions and revert to manual triage within 5 minutes if error > 5 %.
 
 </details>
----
 
 ## 6. How to Run (Prototype)
 <details>
@@ -496,4 +495,5 @@ curl -X POST http://localhost:8000/triage \
 ### Supporting Files
 - [`.env.example`](.env.example)
 - [`sample_data.csv`](sample_data.csv)
+
 - [Flowchart Diagram](docs/flowchart.png)
